@@ -19,7 +19,7 @@
       value: >-
         <a
         href="mailto:frederic.grandjean@univ-poitiers.fr">frederic.grandjean@univ-poitiers.fr</a>
-- title: Education
+- title: Experience
   type: time_table
   contents:
     - title: Full Professor
@@ -105,7 +105,7 @@
           contents:
             - 10% Contribution
             - Founded by the ANR up to 295 000 €
-- title: Formation
+- title: Education
   type: time_table
   contents:
     - title: Habilitation à Diriger des Recherches (HDR)
