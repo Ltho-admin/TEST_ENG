@@ -412,8 +412,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/TEST_ENG/books/the_godfather/";
-            },},{id: "news-premier-test-de-mise-en-ligne-du-site-sparkles-nerd-face",
-          title: 'Premier test de mise en ligne du site ! :sparkles::nerd_face:',
+            },},{id: "news-first-test-of-the-website-going-live-sparkles-nerd-face",
+          title: 'First test of the website going live! :sparkles::nerd_face:',
           description: "",
           section: "News",},{id: "news-website-update-english-version-added-uk",
           title: 'Website update: English version added :uk:',
