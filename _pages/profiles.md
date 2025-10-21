@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: Collaborations
-description: Liste des principaux collaborateurs scientifiques.
+title: People
+description: List of key scientific collaborators.
 nav: true
 nav_order: 7
 
