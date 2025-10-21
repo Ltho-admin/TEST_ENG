@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Recherche
+title: Projects
 permalink: /projects/
-description: Liste des différentes thématiques de recherche abordées.
+description: List of the various research topics covered.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
