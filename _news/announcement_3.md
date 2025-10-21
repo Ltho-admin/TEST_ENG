@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Premier test de mise en ligne du site ! :sparkles::nerd_face:
+First test of the website going live! :sparkles::nerd_face:
