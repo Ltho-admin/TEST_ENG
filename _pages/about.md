@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Je suis Professeur des Universités à l’Université de Poitiers, au sein de l’équipe Écologie, Évolution, Symbiose (EES) du laboratoire [Écologie et Biologie des Interactions (EBI – UMR 7267)](https://ebi.labo.univ-poitiers.fr). Mes travaux s’inscrivent dans le domaine de la biologie de la conservation et de la génétique des populations, en mobilisant des approches intégrées allant de la génétique des populations à l’ADN environnemental.
+I am a professor at the University of Poitiers, working within the Ecology, Evolution, Symbiosis (EES) team at the [Ecology and Biology of Interactions Laboratory (EBI – UMR 7267))](https://ebi.labo.univ-poitiers.fr). My work is in the field of conservation biology and population genetics, using integrated approaches ranging from population genetics to environmental DNA.
 
-Mes recherches visent à décrire et comprendre la structuration génétique des populations animales et à évaluer l’impact des activités anthropiques et des processus naturels sur la biodiversité, notamment chez les écrevisses, iguanes et tritons. Je m’intéresse également aux interactions entre espèces invasives et espèces natives, en combinant des approches expérimentales, omiques et écologiques.
+My research aims to describe and understand the genetic structure of animal populations and to assess the impact of human activities and natural processes on biodiversity, particularly in crayfish, iguanas and newts. I am also interested in the interactions between invasive and native species, combining experimental, omics and ecological approaches.
 
-Je coordonne ou participe à plusieurs projets nationaux et internationaux sur la conservation des écrevisses autochtones, la surveillance environnementale par métabarcoding et l’évolution génomique des symbioses.
+I coordinate or participate in several national and international projects on the conservation of native crayfish, environmental monitoring through metabarcoding, and the genomic evolution of symbiosis.
