@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Mise à jour du site : ajout version anglaise :uk:
+Website update: English version added :uk:
