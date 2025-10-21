@@ -37,9 +37,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/TEST_ENG/teaching/";
           },
-        },{id: "nav-collaborations",
-          title: "Collaborations",
-          description: "Liste des principaux collaborateurs scientifiques.",
+        },{id: "nav-people",
+          title: "People",
+          description: "List of key scientific collaborators.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/TEST_ENG/people/";
