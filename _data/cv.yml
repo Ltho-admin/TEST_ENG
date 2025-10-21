@@ -8,7 +8,7 @@
         <a href="https://ebi.labo.univ-poitiers.fr">Ecology and Biology of 
         Interactions Laboratory (EBI) - UMR7267</a>
     - name: Fonction
-      value: 'Head of the Ecologie, Evolution, Symbiose (EES) team'
+      value: "Head of the Ecologie, Evolution, Symbiose (EES) team"
     - name: Adress
       value: >-
         Bâtiment B31 - 3 Rue Jacques Fort - TSA 51106 - 86073 POITIERS Cedex 9 -
@@ -39,7 +39,7 @@
 - title: Responsibilities
   type: time_table
   contents:
-    - title: 'Head of the Ecologie, Evolution, Symbiose (EES) team'
+    - title: "Head of the Ecologie, Evolution, Symbiose (EES) team"
       year: Since 2022
     - title: Member of the Steering Committee of UMR 7267
       year: Since 2022
