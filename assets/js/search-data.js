@@ -3,22 +3,22 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "About",
+    id: "nav-a-propos",
+    title: "A propos",
     section: "Navigation",
     handler: () => {
       window.location.href = "/TEST_ENG/";
     },
   },{id: "nav-publications",
           title: "Publications",
-          description: "List of scientific papers displayed in reverse chronological order.",
+          description: "Liste des publications scientifiques affichées en ordre chronologique inversé.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/TEST_ENG/publications/";
           },
-        },{id: "nav-projects",
-          title: "Projects",
-          description: "List of the various research topics covered.",
+        },{id: "nav-recherche",
+          title: "Recherche",
+          description: "Liste des différentes thématiques de recherche abordées.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/TEST_ENG/projects/";
@@ -37,9 +37,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/TEST_ENG/teaching/";
           },
-        },{id: "nav-people",
-          title: "People",
-          description: "List of key scientific collaborators.",
+        },{id: "nav-collaborations",
+          title: "Collaborations",
+          description: "Liste des principaux collaborateurs scientifiques.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/TEST_ENG/people/";
