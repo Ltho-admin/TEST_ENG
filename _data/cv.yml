@@ -8,7 +8,7 @@
         <a href="https://ebi.labo.univ-poitiers.fr">Ecology and Biology of 
         Interactions Laboratory (EBI) - UMR7267</a>
     - name: Fonction
-      value: Head of the Ecologie, Evolution, Symbiose (EES) team
+      value: 'Head of the Ecologie, Evolution, Symbiose (EES) team'
     - name: Adress
       value: >-
         Bâtiment B31 - 3 Rue Jacques Fort - TSA 51106 - 86073 POITIERS Cedex 9 -
@@ -39,15 +39,15 @@
 - title: Responsibilities
   type: time_table
   contents:
-    - title: "Head of the Ecologie, Evolution, Symbiose (EES) team"
+    - title: 'Head of the Ecologie, Evolution, Symbiose (EES) team'
       year: Since 2022
     - title: Member of the Steering Committee of UMR 7267
       year: Since 2022
     - title: Member of the Scientific Evaluation Commission (sections 64 to 69)
       year: Since 2022
     - title: >-
-       Member of the steering committee of the Biodiversity Chair at the University
-       of Poitiers
+        Member of the steering committee of the Biodiversity Chair at the
+        University of Poitiers
       year: Since 2021
     - title: Full member of the CNU 67th section
       year: Since 2020
@@ -60,8 +60,8 @@
     - title: Projet InCrust
       description:
         - title: >-
-            Inventory of freshwater fish and crustaceans using 
-            metabarcoding in Martinique
+            Inventory of freshwater fish and crustaceans using  metabarcoding in
+            Martinique
           contents:
             - Main contributor
             - Founded by the OFB/ODE/DEAL up to 273 000 €
@@ -70,25 +70,23 @@
       description:
         - title: >-
             Detect heavy metal and rare earth element contamination in aquatic
-            animal tissues and develop an approach applicable to different
-            time scales.
+            animal tissues and develop an approach applicable to different time
+            scales.
           contents:
             - 15% Contribution
             - >-
-              Founded by the UP-SQUARED (PIA4 / France 2030
-              ExcellenceS) Program up to 15 000 €
+              Founded by the UP-SQUARED (PIA4 / France 2030 ExcellenceS) Program
+              up to 15 000 €
     - year: 2023-2025
     - title: Projet eCray’on
       description:
         - title: >-
             Use of environmental DNA for the detection of white-clawed crayfish
-            (Austropotamobius pallipes) and the agent responsible for
-            crayfish plague (Aphanomyces astaci) in watercourses
+            (Austropotamobius pallipes) and the agent responsible for crayfish
+            plague (Aphanomyces astaci) in watercourses
           contents:
             - 30% Contribution
-            - >-
-              Founded by the OFB/non-academic partners up to 280 000
-              €
+            - Founded by the OFB/non-academic partners up to 280 000 €
     - year: 2021-2024
     - title: Projet RECODE
       description:
@@ -120,8 +118,8 @@
       year: 1997
       description:
         - title: >-
-            Variabilité morphométrique et génétique chez les populations de
-            l’écrevisse à pattes blanches Austropotamobius pallipes -
-            implications biogéographiques
+            Morphometric and genetic variability in populations  of the
+            white-clawed crayfish Austropotamobius  pallipes – biogeographical
+            implications
           contents:
             - Supervised by Catherine Souty-Grosset
