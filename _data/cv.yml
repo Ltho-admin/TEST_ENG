@@ -1,93 +1,93 @@
-- title: Informations Générales
+- title: General Information
   type: map
   contents:
-    - name: Titre
-      value: Professeur des Universités
-    - name: Laboratoire
+    - name: Title
+      value: Full Professor
+    - name: Laboratory
       value: >-
-        <a href="https://ebi.labo.univ-poitiers.fr">Ecologie et Biologie des
-        Interactions (EBI) - UMR7267</a>
+        <a href="https://ebi.labo.univ-poitiers.fr">Ecology and Biology of 
+        Interactions Laboratory (EBI) - UMR7267</a>
     - name: Fonction
-      value: Responsable Equipe - Ecologie Evolution Symbiose (EES)
-    - name: Adresse
+      value: Head of the Ecologie, Evolution, Symbiose (EES) team
+    - name: Adress
       value: >-
         Bâtiment B31 - 3 Rue Jacques Fort - TSA 51106 - 86073 POITIERS Cedex 9 -
         France
-    - name: Téléphone
+    - name: Phone
       value: +33 (0)5 49 45 42 76
     - name: Email
       value: >-
         <a
         href="mailto:frederic.grandjean@univ-poitiers.fr">frederic.grandjean@univ-poitiers.fr</a>
-- title: Expérience Académique
+- title: Education
   type: time_table
   contents:
-    - title: Professeur des Universités
+    - title: Full Professor
       institution: >-
-        Laboratoire Ecologie et Biologie des Interactions (EBI) - UMR7267 -
-        Université de Poitiers
-      year: Depuis XXXX
-    - title: Maître de Conférences
-      institution: Université de Poitiers
+        Ecology and Biology of Interactions Laboratory (EBI) - UMR7267 -
+        University of Poitiers
+      year: Since XXXX
+    - title: Assistant Professor
+      institution: University of Poitiers
       year: 1998? - XXX
-    - title: Chercheur Post-doctorant
+    - title: Postdoctoral Researcher
       institution: XXXX
       year: XXXX-XXXX
-    - title: Thèse de Doctorat
-      institution: Université de Poitiers
+    - title: PhD
+      institution: University of Poitiers
       year: 1994 - 1997
-- title: Responsabilités
+- title: Responsibilities
   type: time_table
   contents:
-    - title: "Responsable de l’équipe Ecologie, Evolution, Symbiose (EES)"
-      year: Depuis 2022
-    - title: Membre du Comité de Direction de l’UMR 7267
-      year: Depuis 2022
-    - title: Membre de la Commission d’évaluation scientifique (section 64 à 69)
-      year: Depuis 2022
+    - title: "Head of the Ecologie, Evolution, Symbiose (EES) team"
+      year: Since 2022
+    - title: Member of the Steering Committee of UMR 7267
+      year: Since 2022
+    - title: Member of the Scientific Evaluation Commission (sections 64 to 69)
+      year: Since 2022
     - title: >-
-        Membre du comité de pilotage de la Chaire Biodiversité de l’Université
-        de Poitiers
-      year: Depuis 2021
-    - title: Membre titulaire du CNU 67ème section
-      year: Depuis 2020
-    - title: Président du conseil scientifique de la réserve Naturelle du Pinail
-      year: Depuis 2004
-- title: Contrats de financement
+       Member of the steering committee of the Biodiversity Chair at the University
+       of Poitiers
+      year: Since 2021
+    - title: Full member of the CNU 67th section
+      year: Since 2020
+    - title: Head of the Scientific Advisory Board of the Pinail Nature Reserve
+      year: Since 2004
+- title: Grants
   type: time_table
   contents:
     - year: 2022-2026
     - title: Projet InCrust
       description:
         - title: >-
-            Inventaire des poissons et crustacés des eaux douces par
-            métabarcoding en Martinique
+            Inventory of freshwater fish and crustaceans using 
+            metabarcoding in Martinique
           contents:
-            - Porteur Principal
-            - Financé par l’OFB/ODE/DEAL à hauteur de 273 000€
+            - Main contributor
+            - Founded by the OFB/ODE/DEAL up to 273 000 €
     - year: 2024-2026
     - title: Projet Toxeau
       description:
         - title: >-
-            Détecter les contaminations en métaux lourds et terres rares dans
-            les tissus des animaux aquatiques et développer une approche
-            applicable à différentes échelles de temps.
+            Detect heavy metal and rare earth element contamination in aquatic
+            animal tissues and develop an approach applicable to different
+            time scales.
           contents:
-            - Participation à 15%
+            - 15% Contribution
             - >-
-              Financé par le programme UP-SQUARED (PIA4 / France 2030
-              ExcellenceS) à hauteur de 15 000 €
+              Founded by the UP-SQUARED (PIA4 / France 2030
+              ExcellenceS) Program up to 15 000 €
     - year: 2023-2025
     - title: Projet eCray’on
       description:
         - title: >-
-            Utilisation de l’ADN environnemental pour la détection de
-            l’écrevisse à pattes blanches (Austropotamobius pallipes) et de
-            l’agent responsable de la peste (Aphanomyces astaci) en cours d’eau
+            Use of environmental DNA for the detection of white-clawed crayfish
+            (Austropotamobius pallipes) and the agent responsible for
+            crayfish plague (Aphanomyces astaci) in watercourses
           contents:
-            - Participation à 30%
+            - 30% Contribution
             - >-
-              Financé par l’OFB/partenaires non académiques à hauteur de 280 000
+              Founded by the OFB/non-academic partners up to 280 000
               €
     - year: 2021-2024
     - title: Projet RECODE
@@ -96,8 +96,8 @@
             Rethinking Ecological Corridor Design - a historical and
             genetically-based approach
           contents:
-            - Participation à 10%
-            - Financé par l’ANR à hauteur de 268 000 €
+            - 10% Contribution
+            - Founded by the ANR up to 268 000 €
     - year: 2020-2023
     - title: Projet Symchrosex
       description:
@@ -105,18 +105,18 @@
             Characterization of a sex chromosome born from a feminizing
             endosymbiont genome
           contents:
-            - Participation à 10%
-            - Financé par l’ANR à hauteur de 295 000 €
+            - 10% Contribution
+            - Founded by the ANR up to 295 000 €
 - title: Formation
   type: time_table
   contents:
     - title: Habilitation à Diriger des Recherches (HDR)
-      institution: Université de Poitiers (France)
+      institution: University of Poitiers (France)
       year: XXXX
       description:
         - XXXXXXXXXXX
-    - title: Doctorat (PhD)
-      institution: Université de Poitiers (France)
+    - title: PhD
+      institution: University of Poitiers (France)
       year: 1997
       description:
         - title: >-
@@ -124,4 +124,4 @@
             l’écrevisse à pattes blanches Austropotamobius pallipes -
             implications biogéographiques
           contents:
-            - Sous la direction de Catherine Souty-Grosset
+            - Supervised by Catherine Souty-Grosset
